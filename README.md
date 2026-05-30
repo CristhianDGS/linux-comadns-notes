@@ -1,2 +1,2 @@
-# linux-comadns-notes
-My cibersecurity learning journing - linux CLI notes
+Day 1 - Jun 30, 2026.
+starting the journing
